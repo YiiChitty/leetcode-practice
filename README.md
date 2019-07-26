@@ -60,7 +60,27 @@ test('输出说明', () => {
 [经典题：种花问题](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Array/605-PlaceFlowers.js)  
 [经典题：格雷编码](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Array/89-GrayCode.js)   
 
+### [正则表达式](https://github.com/YiiChitty/leetcode-practice/tree/master/code/Regexp)
+
+正则表达说明参看[MDN文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)  
+
+[经典题：重复的子串](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Regexp/459-RepeatedSubstringPattern.js)    
+[经典题：实现正则表达匹配](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Regexp/10-RegularExpressionMatching.js)    
+
+### [排序](https://github.com/YiiChitty/leetcode-practice/tree/master/code/Sort)
+
+[冒泡排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/BubbleSort.js)  
+[选择排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/SelectSort.js)  
+[基本快速排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/FastSortBase.js)  
+[in-space快速排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/FastSortHigh.js)  
+[经典题：奇偶排序(冒泡变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/922-SortArraybyParity.js)  
+[经典题：第k最大值(冒泡变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/215- KLargestElementinArray.js)  
+[经典题：最大区间(选择排序变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/41-FirstMissingPositive.js)  
 
 
+
+### [递归](https://github.com/YiiChitty/leetcode-practice/tree/master/code/Recur)
+
+[经典题：输出IP地址](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Recur/93-RestoreIPAddresses.js)  
 
 
