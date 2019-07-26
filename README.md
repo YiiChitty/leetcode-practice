@@ -74,7 +74,7 @@ test('输出说明', () => {
 [基本快速排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/FastSortBase.js)  
 [in-space快速排序](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/FastSortHigh.js)  
 [经典题：奇偶排序(冒泡变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/922-SortArraybyParity.js)  
-[经典题：第k最大值(冒泡变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/215- KLargestElementinArray.js)  
+[经典题：第k最大值(冒泡变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/215-KLargestElementinArray.js)  
 [经典题：最大区间(选择排序变种)](https://github.com/YiiChitty/leetcode-practice/blob/master/code/Sort/41-FirstMissingPositive.js)  
 
 
